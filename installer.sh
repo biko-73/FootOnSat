@@ -12,8 +12,8 @@
 
 PACKAGE_DIR='FootOnSat/main'
 
-MY_IPK="enigma2-plugin-extensions-footonsat_1.8_all.ipk"
-MY_DEB="enigma2-plugin-extensions-footonsat_1.8_all.deb"
+MY_IPK="enigma2-plugin-extensions-footonsat_1.9-r0_all.ipk"
+MY_DEB="enigma2-plugin-extensions-footonsat_1.9-r0_all.deb"
 
 ########################################################################################################################
 # Auto ... Do not change
